@@ -1,0 +1,32 @@
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\appsettings.Development.json
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\appsettings.json
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Minimal api test.exe
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Minimal api test.deps.json
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Minimal api test.runtimeconfig.json
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Minimal api test.dll
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Minimal api test.pdb
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C# project\Minimal api test\Minimal api test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.csproj.AssemblyReference.cache
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.AssemblyInfoInputs.cache
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.AssemblyInfo.cs
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.csproj.CoreCompileInputs.cache
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.MvcApplicationPartsAssemblyInfo.cs
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.MvcApplicationPartsAssemblyInfo.cache
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets\msbuild.Minimal api test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets\msbuild.build.Minimal api test.props
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Minimal api test.props
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Minimal api test.props
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets.pack.json
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets.build.json
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\staticwebassets.development.json
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\scopedcss\bundle\Minimal api test.styles.css
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.csproj.CopyComplete
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.dll
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\refint\Minimal api test.dll
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.pdb
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\Minimal api test.genruntimeconfig.cache
+C:\C# project\Minimal api test\Minimal api test\obj\Debug\net6.0\ref\Minimal api test.dll
